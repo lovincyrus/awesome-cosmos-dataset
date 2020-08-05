@@ -3,7 +3,7 @@
   "description": "Pallium Network is a distributed computing network for the Bitcoin Era system.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/neocortexlab?utf8=%E2%9C%93&q=tendermint&type=&language=",
     "github": "https://github.com/neocortexlab",
     "twitter": "https://twitter.com/palliumnet",

@@ -3,7 +3,7 @@
   "description": "A user-friendly, highly secure and privacy-centric governance platform.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://blog.vocdoni.io/vocdoni-technical-overview-v1/",
     "github": "https://github.com/vocdoni",
     "twitter": "https://twitter.com/vocdoni",

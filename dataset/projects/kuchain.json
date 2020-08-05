@@ -3,7 +3,7 @@
   "description": "KuChain is KuGroup’s public chain project designed to answer the needs of the current decentralized financial sector, which in the future will serve as the Mainnet of KuCoin’s platform token KCS.",
   "image": "",
   "network": "betanet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/kucoinexchange/official-announcement-of-kuchain-betanet-b93e1f6e15ea",
     "github": "https://github.com/KuChainNetwork",
     "twitter": "https://twitter.com/KuChainOfficial",

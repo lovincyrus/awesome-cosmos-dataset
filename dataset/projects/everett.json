@@ -3,7 +3,7 @@
   "description": "A staking derivative middle-layer protocol to solve the problem of competing interest rates between staking and DeFi liquidity.",
   "image": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/everett-protocol/introducing-everett-1ae9b7e73164",
     "github": "https://github.com/chainapsis/everett-hackathon",
     "website": "https://www.everett.zone/"

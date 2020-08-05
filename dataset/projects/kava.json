@@ -3,7 +3,7 @@
   "description": "Kava is the first cross-blockchain DeFi platform that enables traders to leverage their assets and hedge using a multi-collateral CDP system and collateral-backed stablecoin (USDX).",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/Kava-Labs/kava",
     "github": "https://github.com/Kava-Labs/",
     "twitter": "https://twitter.com/kava_labs",

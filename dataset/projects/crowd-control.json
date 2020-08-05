@@ -3,7 +3,7 @@
   "description": "Trading Card Game where you can create your own cards and balance all cards by voting on the blockchain.",
   "image": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/DecentralCardGame/whitepaper/blob/master/whitepaper.pdf",
     "github": "https://github.com/DecentralCardGame",
     "chat": "https://discord.gg/yPA3aKe",

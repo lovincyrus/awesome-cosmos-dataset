@@ -3,7 +3,7 @@
   "description": "A decentralized Google for provable and relevant answers. A relevance machine & a state of the art consensus computer, built with the help of go-IPFS and cosmos-SDK",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/cybercongress/cyberd",
     "github": "https://github.com/cybercongress",
     "twitter": "https://twitter.com/cyber_devs",

@@ -3,7 +3,7 @@
   "description": "The blockchain oracle.",
   "image": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/moracle-network/introducing-the-moracle-proof-of-concept-for-lisk-3a6b425cb622",
     "github": "https://github.com/MoracleNetwork",
     "twitter": "https://twitter.com/MoracleNetwork",

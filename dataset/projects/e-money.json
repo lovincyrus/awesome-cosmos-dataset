@@ -3,7 +3,7 @@
   "description": "e-Money is the leading issuer of interest-bearing, currency-backed tokens on blockchain. Our technology facilitates sub-second payments on a global scale, settled immediately.",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://e-money.com/documents/e-Money%20Whitepaper.pdf",
     "github": "https://github.com/e-money",
     "twitter": "https://twitter.com/emoney_com",

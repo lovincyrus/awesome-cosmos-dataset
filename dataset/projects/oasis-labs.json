@@ -3,7 +3,7 @@
   "description": "Privacy-first cloud computing on blockchain.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/oasislabs/oasis-core/search?utf8=%E2%9C%93&q=tendermint&type=",
     "github": "https://github.com/oasislabs",
     "twitter": "https://www.twitter.com/OasisLabs",

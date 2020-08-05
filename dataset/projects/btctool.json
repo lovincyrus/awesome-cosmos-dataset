@@ -3,7 +3,7 @@
   "description": "btc cross-chain tool",
   "image": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/zouxyan/btctool#readme",
     "github": "https://github.com/zouxyan/btctool"
   },

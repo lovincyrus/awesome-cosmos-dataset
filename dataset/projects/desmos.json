@@ -3,7 +3,7 @@
   "description": "Desmos is a protocol whereby anyone can build any form of decentralized social networks in the easiest way possible.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/forbole/forbole-and-desmos-in-japan-bfdd66317d62",
     "github": "https://github.com/desmos-labs",
     "twitter": "https://twitter.com/DesmosNetwork",

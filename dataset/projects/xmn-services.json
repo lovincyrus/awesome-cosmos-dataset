@@ -3,7 +3,7 @@
   "description": "",
   "image": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/xmnservices/xmnsuite",
     "github": "https://github.com/xmnservices",
     "website": "http://xmnblockchain.com/"

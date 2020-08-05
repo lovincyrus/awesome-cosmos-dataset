@@ -3,7 +3,7 @@
   "description": "",
   "image": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "http://peerity.io/whitepaper/",
     "github": "https://github.com/Peerity",
     "website": "http://peerity.io/"

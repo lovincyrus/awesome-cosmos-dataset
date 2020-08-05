@@ -3,7 +3,7 @@
   "description": "Lightstreams is a technology stack for helping you create apps that put people in control of their money, assets and data.",
   "image": "",
   "network": "tetsnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/lightstreams-network/lightchain",
     "github": "https://github.com/lightstreams-network",
     "twitter": "https://twitter.com/lightstreams_io",

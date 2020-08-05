@@ -3,7 +3,7 @@
   "description": "Kadena is powering new ideas and business models with a hybrid blockchain platform that offers scale, security, and simplicity.",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/kadena-io/introducing-kadenamint-and-chainweb-testnet-v2-cde077c02ebc",
     "github": "https://github.com/kadena-io/",
     "twitter": "http://www.twitter.com/kadena_io",

@@ -3,7 +3,7 @@
   "description": "Decentralized prediction market on lotionjs with tendermint blockchain",
   "image": "",
   "network": "oracle",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/wisdom-of-crowd/wisdom-of-crowd-decentralized-prediction-market-on-lotionjs-with-tendermint-blockchain-77082e7c37d4",
     "github": "https://github.com/swswsw/predictionmkt",
     "twitter": "https://twitter.com/KuendeOfficial",

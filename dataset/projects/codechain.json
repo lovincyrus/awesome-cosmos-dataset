@@ -3,7 +3,7 @@
   "description": "Programmable open source blockchain technology optimal for developing and customizing multi-asset management systems.",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://codechain.readthedocs.io/en/latest/basic-usage.html?highlight=tendermint",
     "github": "https://github.com/CodeChain-io",
     "twitter": "https://twitter.com/codechain_io",

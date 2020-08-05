@@ -3,7 +3,7 @@
   "description": "Ercoin is a cryptocurrency which aims to be simple, fast, efficient and fairly distributed.",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://goo.gl/hQyRy5",
     "gitlab": "https://gitlab.com/Ercoin",
     "twitter": "https://twitter.com/ErcoinTech",

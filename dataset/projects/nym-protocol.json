@@ -3,7 +3,7 @@
   "description": "Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/@nymtech/happy-birthday-bitcoin-hello-world-nym-mixnet-600cc7539190",
     "github": "https://github.com/nymtech",
     "twitter": "https://twitter.com/nymproject",

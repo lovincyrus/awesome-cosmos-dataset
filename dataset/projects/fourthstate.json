@@ -3,7 +3,7 @@
   "description": "Cosmos SDK (Tendermint consensus) side-chain implementation for plasma.",
   "image": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/blockchain-at-berkeley/fourthstate-is-implementing-plasma-6fe99019edb2",
     "github": "https://github.com/fourthstate",
     "twitter": "https://twitter.com/fourthstatelabs",

@@ -3,7 +3,7 @@
   "description": "The Ki Foundation creates a strong and fair ecosystem of value by deploying a new currency with a sustainable business model. For a better world. Block by block.",
   "image": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://static.foundation.ki/documents/ki-whitepaper.pdf",
     "github": "https://github.com/KiFoundation",
     "twitter": "https://twitter.com/Ki_Foundation",
