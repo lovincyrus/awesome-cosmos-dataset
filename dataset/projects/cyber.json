@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Cyber~Congress",
   "description": "A decentralized Google for provable and relevant answers. A relevance machine & a state of the art consensus computer, built with the help of go-IPFS and cosmos-SDK",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/cybercongress/cyberd",
     "github": "https://github.com/cybercongress",
     "twitter": "https://twitter.com/cyber_devs",
     "chat": "https://t.me/fuckgoogle",
     "website": "https://cybercongress.ai/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint bft"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

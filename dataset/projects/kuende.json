@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Kuende",
   "description": "Kuende is the first blockchain fueled social network that uses gamified challenges to reward real life social interaction.",
-  "image": "",
+  "logo": "",
   "network": "beta version",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/kuende/cosmos-network-kuendes-home-for-its-own-decentralized-solution-e60d9a74cb4",
     "github": "https://github.com/kuende",
     "twitter": "https://twitter.com/KuendeOfficial",
     "chat": "http://t.me/kuende",
     "website": "https://kuende.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Unification",
   "description": "Unification creates rapidly deployable blockchain tools with built-in cost & speed predictability that bring security & efficiency to your business operations.",
-  "image": "",
+  "logo": "",
   "network": "framework",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/unificationfoundation/und-november-19-devnews-mainnet-is-coming-21f2d9327cb5",
     "github": "https://github.com/unification-com/mainchain",
     "twitter": "https://twitter.com/UnificationUND",
     "chat": "https://t.me/unificationfoundation",
     "website": "https://unification.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

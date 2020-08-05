@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "THORChain",
-  "description": "?",
-  "image": "",
+  "description": "none",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/thorchain/thorchain-wasm-bridge",
     "github": "https://github.com/thorchain",
     "twitter": "https://twitter.com/thorchain_org",
     "chat": "https://t.me/thorchain_org",
     "website": "https://thorchain.org/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

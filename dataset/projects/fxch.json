@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "FXCH",
   "description": "FXCH is a new approach to Spot-FX clearing. Our settlement technology is remarkable in its simplicity. Our goal is simple: cut out superfluous steps in the trade clearing process, thereby leaving out unnecessary associated costs.",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://fxclr.com/",
     "github": "https://github.com/fxch-ltd",
     "twitter": "https://twitter.com/fxclr",
     "chat": "https://slack.fxclr.com:3000/",
     "website": "https://fxclr.com"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

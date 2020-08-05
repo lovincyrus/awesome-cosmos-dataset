@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "CyberMiles",
   "description": "CyberMiles has built highly customized solutions for the e-commerce companies to deploy their business on the Blockchain with ease.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://www.cybermiles.io/en-us/cmt/whitepaper/",
     "github": "https://github.com/cybermiles",
     "twitter": "https://twitter.com/cybermiles",
     "chat": "https://t.me/cybermilestoken",
     "website": "https://www.cybermiles.io/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

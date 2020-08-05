@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Terra",
   "description": "A price-stable cryptocurrency designed for mass adoption. We are building financial infrastructure for the next generation of decentralized applications.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/terra-project/core",
     "github": "https://github.com/terra-project",
     "twitter": "https://twitter.com/terra_money",
     "chat": "https://discord.gg/bYfyhUT",
     "website": "https://terra.money"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

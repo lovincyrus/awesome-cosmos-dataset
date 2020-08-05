@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Microtick",
   "description": "Microtick is a market-based system for crowdsourcing and incentivizing untrusted oracles to provide accurate streaming data to the Cosmos / Tendermint ecosystem.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://gitlab.com/microtick/mtkit/blob/master/docs/Microtick%20Guide%201.0.pdf",
     "gitlab": "https://gitlab.com/microtick",
     "chat": "https://t.me/microtick_general",
     "website": "http://www.microtick.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

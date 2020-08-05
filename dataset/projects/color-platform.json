@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Color Platform",
   "description": "Color Platform is devoted to bringing the opportunities of a decentralized platform for daily life.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://color-platform.org/~colors/_assets/down/Color_Prism.pdf",
     "github": "https://github.com/ColorPlatform/",
     "twitter": "https://twitter.com/colorsorgmx",
     "chat": "https://t.me/color_platform_en",
     "website": "https://color-platform.org/kr/"
   },
-  "tags": [
+  "platforms": [
     "cosmos-sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

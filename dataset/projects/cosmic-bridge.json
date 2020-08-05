@@ -1,14 +1,22 @@
 {
+  "slug": "app-name",
   "name": "Cosmic Bridge",
   "description": "Building an experimental second layer for Bitcoin using Cosmos",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/CosmicBridge/server/blob/master/README.md",
     "github": "https://github.com/CosmicBridge",
     "website": "https://lotionjs.com/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

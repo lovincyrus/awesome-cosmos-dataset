@@ -1,14 +1,22 @@
 {
+  "slug": "app-name",
   "name": "XMN Blockchain Services",
   "description": "",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/xmnservices/xmnsuite",
     "github": "https://github.com/xmnservices",
     "website": "http://xmnblockchain.com/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }
