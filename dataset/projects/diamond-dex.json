@@ -1,7 +1,7 @@
 {
   "name": "Diamond DEX",
   "description": "A high performance public blockchain with built-in DEX based on Diamond Network SDK",
-  "image": "",
+  "logo": "",
   "network": "development",
   "social_links": {
     "proof": "https://github.com/diamondnetwork2000/whitepaper-V2.0/blob/master/Diamond%20Network%20Whitepaper.pdf",

@@ -1,7 +1,7 @@
 {
   "name": "FXCH",
   "description": "FXCH is a new approach to Spot-FX clearing. Our settlement technology is remarkable in its simplicity. Our goal is simple: cut out superfluous steps in the trade clearing process, thereby leaving out unnecessary associated costs.",
-  "image": "",
+  "logo": "",
   "network": "frozen",
   "social_links": {
     "proof": "https://fxclr.com/",

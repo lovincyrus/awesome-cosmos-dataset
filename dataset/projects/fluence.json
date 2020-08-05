@@ -1,7 +1,7 @@
 {
   "name": "Fluence",
   "description": "A peer-to-peer computing protocol and a software licensing system",
-  "image": "",
+  "logo": "",
   "network": "devnet",
   "social_links": {
     "proof": "https://github.com/fluencelabs/tendermint-demo",

@@ -1,7 +1,7 @@
 {
   "name": "Altcoin Exchange",
   "description": "none",
-  "image": "",
+  "logo": "",
   "network": "DEX",
   "social_links": {
     "proof": "https://blog.altcoin.io/why-weve-chosen-a-plasma-like-sidechain-solution-for-our-dex-97737ca46b86",

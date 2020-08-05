@@ -1,7 +1,7 @@
 {
   "name": "CodeChain Foundry",
   "description": "Foundry is a programmable open source blockchain engine.One of Foundry’s core features is ICS (Interchain standard) support.",
-  "image": "",
+  "logo": "",
   "network": "framework",
   "social_links": {
     "proof": "https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da",

@@ -1,7 +1,7 @@
 {
   "name": "LeapDAO",
   "description": "LeapDAO exist to create and maintain an execution environment to host Ethereum's use-cases, by increasing the capacity of it and widening the scope of possible Dapps in the ecosystem.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
   "social_links": {
     "proof": "https://leapdao.org/blog/Plasma-Testnet-Launched/",
