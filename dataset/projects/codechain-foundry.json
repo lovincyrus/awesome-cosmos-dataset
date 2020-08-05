@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "CodeChain Foundry",
   "description": "Foundry is a programmable open source blockchain engine.One of Foundry’s core features is ICS (Interchain standard) support.",
   "logo": "",

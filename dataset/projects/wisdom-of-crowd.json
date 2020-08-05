@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Wisdom of Crowd",
   "description": "Decentralized prediction market on lotionjs with tendermint blockchain",
   "logo": "",

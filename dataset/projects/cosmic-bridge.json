@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Cosmic Bridge",
   "description": "Building an experimental second layer for Bitcoin using Cosmos",
   "logo": "",

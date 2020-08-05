@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Sentinel",
   "description": "Sentinel is a network layer for p2p or decentralized applications enabling users and organizations to create Public and Private networks that provide access to both free and incentivised, payment-type (currency/token/fiat) agnostic Services & distributed Resources. With paradigms of Web3 in mind we allow users to become both producers and consumers in the network while earning and spending whitelisted tokens such as Bitcoin, Ethereum, Photons, Atoms or any other, which enables everyone to participate in the system without being forced to use any particular coin.",
   "logo": "",

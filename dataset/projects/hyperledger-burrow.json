@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "HyperLedger Burrow (Monax)",
   "description": "Hyperledger Burrow is one of the Hyperledger projects hosted by The Linux Foundation. Hyperledger Burrow provides a modular blockchain client with a permissioned smart contract interpreter partially developed to the specification of the EVM.",
   "logo": "",

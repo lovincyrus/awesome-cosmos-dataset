@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Agoric",
   "description": "Agoric is developing a secure distributed ocap platform for smart contracts and market-oriented programming. Our platform supports the development of smart contracts and market institutions across many different scales, from large public blockchains to small two-party contracts.",
   "logo": "",

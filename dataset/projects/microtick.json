@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Microtick",
   "description": "Microtick is a market-based system for crowdsourcing and incentivizing untrusted oracles to provide accurate streaming data to the Cosmos / Tendermint ecosystem.",
   "logo": "",

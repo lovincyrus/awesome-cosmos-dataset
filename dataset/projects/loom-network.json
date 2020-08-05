@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Loom Network",
   "description": "Loom is a Layer 2 scaling solution for Ethereum that includes a network of DPoS sidechains for highly-scalable games and user-facing DApps.",
   "logo": "",

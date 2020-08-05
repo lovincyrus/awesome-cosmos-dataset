@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Althea",
   "description": "Althea is a system that lets routers pay each other for bandwidth. This allows people to set up decentralized ISPs in their communities. In an Althea network, instead of one ISP at the top collecting monthly payments, many different people can earn money by expanding and strengthening the network.",
   "logo": "",

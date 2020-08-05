@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Cosmos Swap",
   "description": "Cosmos-sdk powered assets swaps. Demoed in Berlin Hackathon 2019",
   "logo": "",

@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Diamond DEX",
   "description": "A high performance public blockchain with built-in DEX based on Diamond Network SDK",
   "logo": "",

@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Chainpoint",
   "description": "Chainpoint is an open standard for creating a timestamp proof of any data, file, or process.",
   "logo": "",

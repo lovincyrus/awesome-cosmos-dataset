@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "FourthState",
   "description": "Cosmos SDK (Tendermint consensus) side-chain implementation for plasma.",
   "logo": "",

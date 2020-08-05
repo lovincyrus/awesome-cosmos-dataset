@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Band Protocol",
   "description": "Band Protocol connects smart contracts with trusted off-chain information, provided through community-curated data providers.",
   "logo": "",

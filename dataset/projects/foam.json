@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "FOAM",
   "description": "FOAM’s dynamic proof of location protocol will enable a permissionless and privacy-preserving network of radio beacons that is independent from external centralized sources such as GPS and capable of providing secure location verification services.",
   "logo": "",

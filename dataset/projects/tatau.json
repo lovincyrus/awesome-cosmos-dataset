@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Tatau",
   "description": "Tatau is a distributed supercomputing platform used by AI companies to perform complex deep-learning operations more cost-effectively, and efficiently than other alternatives.",
   "logo": "",

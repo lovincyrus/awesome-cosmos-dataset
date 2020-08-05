@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Ockam",
   "description": "Ockam is a new approach to help developers innovate with the Internet of Things. The platform rolls up the best practices in secure connected device systems, and abstracts away technical complexity below a developer experience layer. Ockam’s blockchain based infrastructure provides a serverless experience so developers can innovate - fast.",
   "logo": "",

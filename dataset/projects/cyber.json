@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Cyber~Congress",
   "description": "A decentralized Google for provable and relevant answers. A relevance machine & a state of the art consensus computer, built with the help of go-IPFS and cosmos-SDK",
   "logo": "",

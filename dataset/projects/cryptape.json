@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "CITA by Cryptape",
   "description": "CITA is a fast and scalable blockchain kernel for enterprises. CITA supports both native contract and EVM contract, by which enterprise users can build their own blockchain applications.",
   "logo": "",

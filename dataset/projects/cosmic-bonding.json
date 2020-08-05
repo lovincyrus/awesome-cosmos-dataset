@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Cosmic Bonding",
   "description": "Cosmic Bonding is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.",
   "logo": "",

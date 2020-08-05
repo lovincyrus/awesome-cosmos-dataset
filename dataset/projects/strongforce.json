@@ -1,4 +1,5 @@
 {
+  "slug": "app-name",
   "name": "Strong Force",
   "description": "C# Smart Contracts framework over Tendermint consensus",
   "logo": "",
