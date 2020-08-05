@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Cosmic Bonding",
   "description": "Cosmic Bonding is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/ixofoundation/cosmic#readme",
     "github": "https://github.com/ixofoundation/cosmic",
     "twitter": "https://twitter.com/ixoworld?lang=en",
     "chat": "https://t.me/joinchat/Ejz5exAfFUzcBMRlaYLecQ",
     "website": "http://ixo.foundation/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

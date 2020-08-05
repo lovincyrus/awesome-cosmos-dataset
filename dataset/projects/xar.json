@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Xar",
   "description": "Cosmos-based cross-chain decentralized finance.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://www.blog.xar.network/what-is-xar-network/",
     "github": "https://github.com/xar-network",
     "twitter": "https://twitter.com/xarnetwork",
     "chat": "https://t.me/xarnetwork",
     "website": "https://xar.network/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

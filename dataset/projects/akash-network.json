@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Akash Network",
   "description": "Akash is the world’s first super cloud for serverless computing, empowering the architects and builders of the internet with greater access, freedom, and efficiency.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/ovrclk/akash/search?q=tendermint&unscoped_q=tendermint",
     "github": "https://github.com/ovrclk",
     "twitter": "https://twitter.com/akashnet_",
     "chat": "https://akash.network/chat",
     "website": "https://akash.network/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

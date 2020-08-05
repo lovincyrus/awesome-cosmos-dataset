@@ -1,13 +1,21 @@
 {
+  "slug": "app-name",
   "name": "btctool",
   "description": "btc cross-chain tool",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/zouxyan/btctool#readme",
     "github": "https://github.com/zouxyan/btctool"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

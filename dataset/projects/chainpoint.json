@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Chainpoint",
   "description": "Chainpoint is an open standard for creating a timestamp proof of any data, file, or process.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/chainpoint/chainpoint-roadmap-2019-d04e726b6e85",
     "github": "https://github.org/chainpoint",
     "twitter": "https://twitter.com/chainpnt",
     "chat": "https://t.me/chainpoint",
     "website": "https://chainpoint.org/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

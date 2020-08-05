@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Bluzelle",
   "description": "Bluzelle gives dapps a place to store data that is secure, tamper-proof, and highly scalable.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://www.cryptoninjas.net/2019/12/02/distributed-data-service-bluzelle-to-integrate-cosmos/",
     "github": "https://github.com/bluzelle/curium",
     "twitter": "https://twitter.com/bluzellehq",
     "chat": "https://t.me/bluzelle",
     "website": "https://www.bluzelle.com"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

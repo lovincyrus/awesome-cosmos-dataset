@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Kadena",
   "description": "Kadena is powering new ideas and business models with a hybrid blockchain platform that offers scale, security, and simplicity.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/kadena-io/introducing-kadenamint-and-chainweb-testnet-v2-cde077c02ebc",
     "github": "https://github.com/kadena-io/",
     "twitter": "http://www.twitter.com/kadena_io",
     "chat": "https://discordapp.com/invite/bsUcWmX",
     "website": "https://kadena.io/en/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Wisdom of Crowd",
   "description": "Decentralized prediction market on lotionjs with tendermint blockchain",
-  "image": "",
+  "logo": "",
   "network": "oracle",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/wisdom-of-crowd/wisdom-of-crowd-decentralized-prediction-market-on-lotionjs-with-tendermint-blockchain-77082e7c37d4",
     "github": "https://github.com/swswsw/predictionmkt",
     "twitter": "https://twitter.com/KuendeOfficial",
     "chat": "https://t.me/wisdomofcrowd5",
     "website": "http://www.wisdomofcrowd.org/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

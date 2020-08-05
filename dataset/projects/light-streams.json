@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "LIGHT STREAMS",
   "description": "Lightstreams is a technology stack for helping you create apps that put people in control of their money, assets and data.",
-  "image": "",
+  "logo": "",
   "network": "tetsnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/lightstreams-network/lightchain",
     "github": "https://github.com/lightstreams-network",
     "twitter": "https://twitter.com/lightstreams_io",
     "chat": "https://t.me/lightstreams",
     "website": "https://www.lightstreams.network/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

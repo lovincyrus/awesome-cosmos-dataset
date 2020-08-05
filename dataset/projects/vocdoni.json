@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Vocdoni",
   "description": "A user-friendly, highly secure and privacy-centric governance platform.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://blog.vocdoni.io/vocdoni-technical-overview-v1/",
     "github": "https://github.com/vocdoni",
     "twitter": "https://twitter.com/vocdoni",
     "chat": "https://t.me/vocdoni",
     "website": "https://vocdoni.io"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

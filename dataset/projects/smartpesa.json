@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "SmartPesa",
   "description": "A payments & agency banking solutions company.",
-  "image": "",
+  "logo": "",
   "network": "dApp",
-  "links": {
+  "social_links": {
     "proof": "https://tozzi21.wordpress.com/author/tozzi21/",
     "github": "http://github.com/smartpesa",
     "twitter": "https://twitter.com/smartpesa",
     "chat": "https://t.me/smartpesa",
     "website": "https://www.smartpesa.com/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

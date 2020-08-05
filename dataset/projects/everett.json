@@ -1,15 +1,23 @@
 {
+  "slug": "app-name",
   "name": "EVERETT",
   "description": "A staking derivative middle-layer protocol to solve the problem of competing interest rates between staking and DeFi liquidity.",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/everett-protocol/introducing-everett-1ae9b7e73164",
     "github": "https://github.com/chainapsis/everett-hackathon",
     "website": "https://www.everett.zone/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

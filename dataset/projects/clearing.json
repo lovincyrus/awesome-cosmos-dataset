@@ -1,13 +1,21 @@
 {
+  "slug": "app-name",
   "name": "Clearing",
   "description": "Clearing.cc is the new approach for Crypto Currency Exchanges. Our goal is to provide a solid Crypto Currency clearing process using our new technology designed for the Crypto Currency market. This is the solution for the new Crypto Currency era.",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://i.imgur.com/kWCkPIY.png",
     "website": "https://www.clearing.cc/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

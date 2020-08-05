@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Nym Protocol",
   "description": "Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/@nymtech/happy-birthday-bitcoin-hello-world-nym-mixnet-600cc7539190",
     "github": "https://github.com/nymtech",
     "twitter": "https://twitter.com/nymproject",
     "chat": "https://t.me/nymtech",
     "website": "https://nymtech.net"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

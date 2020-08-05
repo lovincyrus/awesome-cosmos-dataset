@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Agoric",
   "description": "Agoric is developing a secure distributed ocap platform for smart contracts and market-oriented programming. Our platform supports the development of smart contracts and market institutions across many different scales, from large public blockchains to small two-party contracts.",
-  "image": "",
+  "logo": "",
   "network": "pre-alpha/development",
-  "links": {
+  "social_links": {
     "proof": "https://agoric.com/agoric-launches-testnet",
     "github": "https://github.com/agoric",
     "twitter": "https://twitter.com/agoric",
     "chat": "https://t.me/agoricsystems",
     "website": "https://agoric.com/about/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

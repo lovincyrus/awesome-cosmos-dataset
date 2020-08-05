@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "CodeChain Foundry",
   "description": "Foundry is a programmable open source blockchain engine.One of Foundry’s core features is ICS (Interchain standard) support.",
-  "image": "",
+  "logo": "",
   "network": "framework",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/codechain/foundry-ics-poc-proof-of-concept-implementation-c92a8b4757da",
     "github": "https://github.com/CodeChain-io/foundry",
     "twitter": "https://twitter.com/codechain_io",
     "chat": "https://t.me/codechain_protocol",
     "website": "https://codechain.io/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

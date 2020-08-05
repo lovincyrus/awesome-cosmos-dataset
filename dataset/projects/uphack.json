@@ -1,15 +1,23 @@
 {
+  "slug": "app-name",
   "name": "Uphack",
   "description": "Build blockchain powered social apps.",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/Hashnode/mint",
     "github": "https://github.com/Hashnode",
     "twitter": "https://twitter.com/hashnode",
     "website": "https://hashnode.com/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

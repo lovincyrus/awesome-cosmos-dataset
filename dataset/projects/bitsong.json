@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "BitSong",
   "description": "BitSong’s mission is to enable a simple global blockchain infrastructure that empowers the music industry.",
-  "image": "",
+  "logo": "",
   "network": "testnet",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/@BitSongOfficial/important-bitsongs-public-sale-notice-e70e448bd90c",
     "github": "https://github.com/BitSongOfficial",
     "twitter": "https://twitter.com/bitsongofficial",
     "chat": "https://t.me/BitSongOfficial",
     "website": "https://bitsong.io/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

@@ -1,14 +1,22 @@
 {
+  "slug": "app-name",
   "name": "Peerity",
   "description": "",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "http://peerity.io/whitepaper/",
     "github": "https://github.com/Peerity",
     "website": "http://peerity.io/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

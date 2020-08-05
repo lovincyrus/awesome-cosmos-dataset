@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "IOV",
   "description": "The IOV Name Service provides a human readable address instead of blockchain addresses to receive any kind of crypto-currencies. Built on Tendermint, IOV builds a fast, secure and decentralized name service. Any kind of crypto-addresses can be registered on the IOV Name Service.",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://docs.iov.one/",
     "github": "https://github.com/iov-one",
     "twitter": "https://twitter.com/iov_official",
     "chat": "https://t.me/internetofvalues",
     "website": "https://www.iov.one/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

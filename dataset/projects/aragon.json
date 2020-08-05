@@ -1,18 +1,26 @@
 {
+  "slug": "app-name",
   "name": "Aragon",
   "description": "Aragon empowers you to freely organize and collaborate without borders or intermediaries. Create global, bureaucracy-free organizations, companies, and communities.",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://blog.aragon.one/aragon-chain",
     "github": "https://github.com/aragon",
     "twitter": "https://twitter.com/aragonproject",
     "chat": "https://aragon.chat",
     "website": "https://aragon.org/"
   },
-  "tags": [
+  "platforms": [
     "ethermint",
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

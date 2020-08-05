@@ -1,12 +1,20 @@
 {
+  "slug": "app-name",
   "name": "DGaming",
   "description": "The DGaming Hub is a decentralized gaming hub in the Cosmos network, which will connect standalone gaming blockchains to the economical ecosystem. ",
-  "image": "",
+  "logo": "",
   "network": "frozen",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/@dgaminghub/announcing-the-dgaming-hub-in-the-cosmos-ecosystem-7adc5e9628d3"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

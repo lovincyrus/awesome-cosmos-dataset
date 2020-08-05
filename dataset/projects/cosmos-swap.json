@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Cosmos Swap",
   "description": "Cosmos-sdk powered assets swaps. Demoed in Berlin Hackathon 2019",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/thorchain/instaswap-sdk#readme",
     "github": "https://github.com/thorchain/instaswap-sdk",
     "twitter": "https://twitter.com/thorchain_org",
     "chat": "https://t.me/thorchain_org",
     "website": "https://thorchain.org/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

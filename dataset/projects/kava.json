@@ -1,17 +1,25 @@
 {
+  "slug": "app-name",
   "name": "Kava",
   "description": "Kava is the first cross-blockchain DeFi platform that enables traders to leverage their assets and hedge using a multi-collateral CDP system and collateral-backed stablecoin (USDX).",
-  "image": "",
+  "logo": "",
   "network": "mainnet",
-  "links": {
+  "social_links": {
     "proof": "https://github.com/Kava-Labs/kava",
     "github": "https://github.com/Kava-Labs/",
     "twitter": "https://twitter.com/kava_labs",
     "chat": "https://t.me/joinchat/FkPmgRKdMAyLdWMItxYt0w",
     "website": "https://kava.io/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

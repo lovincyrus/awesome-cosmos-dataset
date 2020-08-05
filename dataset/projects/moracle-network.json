@@ -1,16 +1,24 @@
 {
+  "slug": "app-name",
   "name": "Moracle Network",
   "description": "The blockchain oracle.",
-  "image": "",
+  "logo": "",
   "network": "development",
-  "links": {
+  "social_links": {
     "proof": "https://medium.com/moracle-network/introducing-the-moracle-proof-of-concept-for-lisk-3a6b425cb622",
     "github": "https://github.com/MoracleNetwork",
     "twitter": "https://twitter.com/MoracleNetwork",
     "chat": "https://t.me/MoracleNetwork",
     "website": "https://moracle.network/"
   },
-  "tags": [
-    "?"
-  ]
+  "platforms": [
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }
