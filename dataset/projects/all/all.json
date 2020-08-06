@@ -2132,26 +2132,6 @@
   },
   {
     "slug": "app-name",
-    "name": "Oracle International Corporation",
-    "description": "Distributed ledger systems that provide enhanced accountability and trust are described.",
-    "logo": "",
-    "network": "development",
-    "social_links": {
-      "proof": "http://www.freepatentsonline.com/y2017/0236120.html"
-    },
-    "platforms": [
-      "none"
-    ],
-    "languages": [
-      "go",
-      "javascript",
-      "rust",
-      "none"
-    ],
-    "is_ibc_support": false
-  },
-  {
-    "slug": "app-name",
     "name": "Pallium",
     "description": "Pallium Network is a distributed computing network for the Bitcoin Era system.",
     "logo": "",
