@@ -1,0 +1,40 @@
+{
+  "slug": "app-name",
+  "name": "app",
+  "tagline": "Lorem ipsum dolor sit amet.",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt leo sed nunc tincidunt auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent rutrum eget ex eget tempor.",
+  "website_url": "https://app.com",
+  "logo": "https://i.imgur.com/nVHYQWU.png",
+  "cover_img": "app.png",
+  // development, testnet, mainnet
+  "network": "testnet",
+  "developer": {
+    "name": "GOOD_DEV",
+    "url": "https://good.dev"
+  },
+  "social_links": {
+    "proof": "",
+    "twitter": "",
+    "github": "",
+    "gitlab": "",
+    "medium": "",
+    "discord": ""
+  },
+  // each project can only have 1 category
+  // tools, modules, libraries, virtual-machines, validator-tools
+  "category": "",
+  "platforms": [
+    "cosmos-sdk",
+    "tendermint-core",
+    "ethermint",
+    "cosmwasm",
+    "none"
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
+}

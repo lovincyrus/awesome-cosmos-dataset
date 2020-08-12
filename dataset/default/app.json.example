@@ -1,8 +1,8 @@
 {
-  "name": "app",
   "slug": "app-name",
-  "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt leo sed nunc tincidunt auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent rutrum eget ex eget tempor.",
+  "name": "app",
+  "tagline": "Lorem ipsum dolor sit amet.",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt leo sed nunc tincidunt auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent rutrum eget ex eget tempor.",
   "website_url": "https://app.com",
   "logo": "https://i.imgur.com/nVHYQWU.png",
   "cover_img": "app.png",
@@ -18,16 +18,9 @@
     "medium": "",
     "discord": ""
   },
-  "categories": [
-    "modules",
-    "block-explorers",
-    "frameworks",
-    "smart-contracts",
-    "utilities",
-    "dex",
-    "defi",
-    "none"
-  ],
+  // each project can only have 1 category
+  // modules, block-explorers, frameworks, smart-contracts, utilities, dex, defi, none
+  "category": "",
   "platforms": [
     "cosmos-sdk",
     "tendermint-core",

@@ -12,10 +12,10 @@ lint:
 	done
 
 concat:
-	@./dataset/script/concat.sh
+	@./dataset/scripts/concat.sh
 
 add:
-	@./dataset/script/add.sh
+	@./dataset/scripts/add.sh
 
 clean:
 	find . -name "*.json.json" -type f -delete

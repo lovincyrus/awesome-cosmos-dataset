@@ -7,7 +7,7 @@
 #### `cosmos/awesome`
 
 1. Create a new project.json in `/dataset/projects`.
-2. Refer to the template in `/dataset/default/app.default.json`.
+2. Refer to the template in `/dataset/default/app.json.example`.
 3. Submit a PR `new_branch` -> `staging`.
 4. In the PR, GitHub Action will automatically run `make` to validate the JSON linting. If there is no linting error, it will concatenate all the json files in `projects/` to a single JSON file in `projects/all/`. This will then output `all.json`.
 5. Feel free to merge `staging` -> `master`.
